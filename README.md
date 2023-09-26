@@ -2,9 +2,9 @@
 
 🚀 Passionate Full Stack Developer | 🌐 Web & Mobile App Enthusiast
 
-. 🔥 2+ years of hands-on experience crafting digital solutions that make an impact.
-. 🌟 Fluent in the languages of code, dedicated to turning ideas into reality.
-. 💡 Always learning, evolving, and exploring the latest in tech trends.
+* 🔥 2+ years of hands-on experience crafting digital solutions that make an impact.
+* 🌟 Fluent in the languages of code, dedicated to turning ideas into reality.
+* 💡 Always learning, evolving, and exploring the latest in tech trends.
 
 * 🔭 I’m currently working at **[Interlink Technologies Limited](https://www.intertechbd.com/)** since May 2023.
 * 🌱 I’m currently learning **Next Level Development By Programming Hero**.
