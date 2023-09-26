@@ -2,19 +2,19 @@
 
 🚀 Passionate Full Stack Developer | 🌐 Web & Mobile App Enthusiast
 
-🔥 2+ years of hands-on experience crafting digital solutions that make an impact.
-🌟 Fluent in the languages of code, dedicated to turning ideas into reality.
-💡 Always learning, evolving, and exploring the latest in tech trends.
+* 🔥 2+ years of hands-on experience crafting digital solutions that make an impact.
+* 🌟 Fluent in the languages of code, dedicated to turning ideas into reality.
+* 💡 Always learning, evolving, and exploring the latest in tech trends.
 
-🔭 I’m currently working at **[Interlink Technologies Limited](https://www.intertechbd.com/)** since May 2023.
-🌱 I’m currently learning **Next Level Development By Programming Hero**.
-👨‍💻 All of my projects are available at [Portfolio](https://muhammadasif.vercel.app/)
-📝 I regularly write articles on [DEV.to](https://dev.to/muhammadasif_wd).
-💬 Ask me about full-stack development, especially **Full Stack Development**.
-📫 How to reach me: muhammadasif.wd@gmail.com / [01830018193](https://api.whatsapp.com/send/?phone=%2B8801830018193&text=Hello+A+SI+F%21&type=phone_number&app_absent=0)
-📄 Check out my professional experiences on my [Resume](https://docs.google.com/document/d/1_deAvC9h7oRBaHazC0AvGwRvhNRrqpbnqr_t5PoQ4Ic/edit?usp=sharing)
+* 🔭 I’m currently working at **[Interlink Technologies Limited](https://www.intertechbd.com/)** since May 2023.
+* 🌱 I’m currently learning **Next Level Development By Programming Hero**.
+* 👨‍💻 All of my projects are available at [Portfolio](https://muhammadasif.vercel.app/)
+* 📝 I regularly write articles on [DEV.to](https://dev.to/muhammadasif_wd).
+* 💬 Ask me about full-stack development, especially **Full Stack Development**.
+* 📫 How to reach me: muhammadasif.wd@gmail.com / [01830018193](https://api.whatsapp.com/send/?phone=%2B8801830018193&text=Hello+A+SI+F%21&type=phone_number&app_absent=0)
+* 📄 Check out my professional experiences on my [Resume](https://docs.google.com/document/d/1_deAvC9h7oRBaHazC0AvGwRvhNRrqpbnqr_t5PoQ4Ic/edit?usp=sharing)
 
-⚡ Fun fact: One of the most powerful yet ignored thoughts is - "Focusing on 'great ideas' in a sea of 'good ideas' makes you unique."
+* ⚡ Fun fact: One of the most powerful yet ignored thoughts is - "Focusing on 'great ideas' in a sea of 'good ideas' makes you unique."
 
 ### Connect with me:
 
