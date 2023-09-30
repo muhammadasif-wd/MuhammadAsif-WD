@@ -15,7 +15,7 @@ _Passionate Full Stack Developer | 🌐 Web & Mobile App Enthusiast_
 
 💬 Ask me about full-stack development, especially Full Stack Development.
 
-📫 How to reach me: [muhammadasif.wd@gmail.com](mailto:muhammadasif.wd@gmail.com) / [01830018193](tel:01830018193)
+📫 How to reach me: [muhammadasif.wd@gmail.com](mailto:muhammadasif.wd@gmail.com) / [01830018193](telto:01830018193)
 
 ⚡ Fun fact: One of the most powerful yet ignored thoughts is - "Focusing on 'great ideas' in a sea of 'good ideas' makes you unique."
 
