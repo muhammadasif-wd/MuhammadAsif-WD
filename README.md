@@ -1,5 +1,4 @@
 # 💫 About Me:
-## Muhammad A SI F
 _Passionate Full Stack Developer | 🌐 Web & Mobile App Enthusiast_
 
 🔥 2+ years of hands-on experience crafting digital solutions that make an impact.
