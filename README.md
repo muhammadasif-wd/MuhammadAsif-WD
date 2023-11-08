@@ -32,11 +32,13 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 *Feel free to reach out if you have any questions or need assistance with **Full-Stack Development**.*
 
 <br/>
+
 ## Resume & Portfolio
 - Check out my **Portfolio** at [Portfolio](https://muhammadasif.vercel.app/)
 - Check out my **Professional Experiences** on my [Resume](https://docs.google.com/document/d/1_deAvC9h7oRBaHazC0AvGwRvhNRrqpbnqr_t5PoQ4Ic/edit?usp=sharing)
 
 <br/>
+
 ## Connect with Me
 
 - [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadasif.wd@gmail.com)
@@ -47,6 +49,7 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801830018193/?text=Hello%20A%20SI%20F!)
 
 <br/>
+
 ## Tech Stack
 
 ### Frontend Development
@@ -55,6 +58,7 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 - Styling: ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br/>
+
 ### Backend Development
 - Server-Side: ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) with ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - API Development: Proficient in creating **RESTful and GraphQL** APIs for frontend-backend communication.
@@ -62,6 +66,7 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 - Server Deployment: Knowledge in server management and deployment using ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white), ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white), and ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white).
 
 <br/>
+
 ### Other Skills
 - **Problem-Solving**: Strong problem-solving skills with a focus on optimized code.
 - **Collaboration**: Effective communication and teamwork with designers and developers.
@@ -70,12 +75,14 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 - **Learning**: Committed to continuous learning and adapting to evolving technologies and best practices.
 
 <br/>
+
 ## Tools and Practices
 - Familiarity with agile development methodologies and project management tools like Jira or Trello.
 - Implementing CI/CD pipelines for automated testing and deployment.
 
 
 <br/>
+
 # GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadasif-wd&show_icons=true&theme=merko&count_private=true&hide=contribs,prs)
@@ -86,11 +93,13 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 
 
 <br/>
+
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
 <br/>
+
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammadasif-wd&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
