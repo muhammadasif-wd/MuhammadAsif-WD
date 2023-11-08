@@ -1,9 +1,9 @@
 # MUHAMMAD ASIF
 
-## SUMMARY
-Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, <b>Tailwind CSS</b>, <b>JavaScript, React, Next.js</b>, responsive design, WebPack, Git/GitHub, <b>Node.js, Express.js</b>, API development, database management (SQL/NoSQL), authentication/authorization, server management (Docker, Nginx, AWS), and best development practices. Proven track record in crafting dynamic web applications with a focus on user experience and collaboration. Ready to drive innovation and tackle complex challenges in a forward-thinking team.
+### SUMMARY
+Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS**, **JavaScript, React, Next.js**, responsive design, WebPack, Git/GitHub, **Node.js, Express.js**, API development, database management (SQL/NoSQL), authentication/authorization, server management (Docker, Nginx, AWS), and best development practices. Proven track record in crafting dynamic web applications with a focus on user experience and collaboration. Ready to drive innovation and tackle complex challenges in a forward-thinking team.
 
-🔥 2+ years of hands-on experience crafting digital solutions that make an impact.
+> **2+ years** of hands-on **experience** crafting digital solutions that make an impact.
 
 🌟 Fluent in the languages of code, dedicated to turning ideas into reality.
 
