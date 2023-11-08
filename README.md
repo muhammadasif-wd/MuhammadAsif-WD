@@ -18,7 +18,7 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 
 - Fun fact: One of the most powerful yet ignored thoughts is - **"Focusing on 'great ideas'** in a sea of **'good ideas'** makes you unique."
 
-  
+<br/>
 **I specialize in Full Stack Development and can assist you with:**
 
 - Web application development
