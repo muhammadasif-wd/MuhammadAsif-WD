@@ -38,13 +38,14 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 
 
 ## Connect with Me
-- E-mail: [muhammadasif.wd@gmail.com](mailto:muhammadasif.wd@gmail.com)
-- Phone Number (BD): [01830018193](telto:01830018193)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadasif-wd/)
-- Twitter: [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhammadasif_wd)
-- Facebook: [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadasif.wd)
-- DEV.to: [![DEV.to](https://img.shields.io/badge/DEV.to-Follow-blue?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/muhammadasif_wd)
-- WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801830018193/?text=Hello%20A%20SI%20F!)
+
+- [![Phone](https://img.shields.io/badge/Phone-Call-green?style=for-the-badge&logo=phone&logoColor=white)](tel:01830018193)
+- [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadasif.wd@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadasif-wd/)
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhammadasif_wd)
+- [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muhammadasif.wd)
+- [![DEV.to](https://img.shields.io/badge/DEV.to-Follow-blue?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/muhammadasif_wd)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+8801830018193/?text=Hello%20A%20SI%20F!)
 
 
 ## Tech Stack
@@ -52,20 +53,21 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 ### Frontend Development
 - Languages: ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - Libraries/Frameworks: ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white), ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D), ![Redux](https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white)
-- Styling: HTML, CSS, ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/Tailwind CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white), Component Libraries
+- Styling: **HTML** ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white), **CSS** ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white), ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ### Backend Development
 - Server-Side: ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) with ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-- API Development: Proficient in creating RESTful and GraphQL APIs for frontend-backend communication.
-- Database Management: Experience with ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white), and NoSQL databases.
+- API Development: Proficient in creating **RESTful and GraphQL** APIs for frontend-backend communication.
+- Database Management: **Experience** with ![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white), ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white), and NoSQL databases.
 - Server Deployment: Knowledge in server management and deployment using ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white), ![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white), and ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white).
 
 ### Other Skills
-- Problem-Solving: Strong problem-solving skills with a focus on optimized code.
-- Collaboration: Effective communication and teamwork with designers and developers.
-- Version Control: Proficient in Git and Git workflows for code collaboration and management.
-- Soft Skills: Time management, attention to detail, and working well under pressure.
-- Learning: Committed to continuous learning and adapting to evolving technologies and best practices.
+- **Problem-Solving**: Strong problem-solving skills with a focus on optimized code.
+- **Collaboration**: Effective communication and teamwork with designers and developers.
+- **Version Control**: Proficient in Git and Git workflows for code collaboration and management.
+- **Soft Skills**: Time management, attention to detail, and working well under pressure.
+- **Learning**: Committed to continuous learning and adapting to evolving technologies and best practices.
 
 ## Tools and Practices
 - Familiarity with agile development methodologies and project management tools like Jira or Trello.
