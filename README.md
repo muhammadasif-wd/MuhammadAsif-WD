@@ -39,7 +39,6 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 
 ## Connect with Me
 
-- ![Phone](https://img.shields.io/badge/Phone-Call-green?style=for-the-badge&logo=phone&logoColor=white) [Call me](tel:+8801830018193)
 - [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadasif.wd@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadasif-wd/)
 - [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muhammadasif_wd)
