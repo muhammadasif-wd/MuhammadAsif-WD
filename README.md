@@ -34,8 +34,8 @@ Experienced Full-Stack Developer skilled in HTML/CSS, Bootstrap, **Tailwind CSS*
 <br/>
 
 ## Resume & Portfolio
-- Check out my **Portfolio** at [Portfolio](https://muhammadasif.vercel.app/)
-- Check out my **Professional Experiences** on my [Resume](https://docs.google.com/document/d/1_deAvC9h7oRBaHazC0AvGwRvhNRrqpbnqr_t5PoQ4Ic/edit?usp=sharing)
+- Check out my **Portfolio** at [Muhammad Asif](https://muhammadasif.vercel.app/)
+- Check out my **Professional Experiences** on my [Muhammad Asif Resume](https://docs.google.com/document/d/1_deAvC9h7oRBaHazC0AvGwRvhNRrqpbnqr_t5PoQ4Ic/edit?usp=sharing)
 
 <br/>
 
