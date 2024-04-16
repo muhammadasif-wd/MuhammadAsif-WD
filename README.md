@@ -9,11 +9,11 @@
 - 👯 I’m looking to collaborate on [DevBrainss](https://github.com/DevBrainss)
 - 🤝 I’m looking for help with [y00ts](https://y00ts.vercel.app/)
 - 🌱 I’m currently learning **Advance Next Level Development By Programming Hero.**
-- 💬 Ask me about **Experienced Full-Stack Developer skilled in HTML/CSS, Tailwind CSS, JavaScript, Typescript, React, Next.js, responsive design, WebPack, Git/GitHub, Node.js, Express.js, API development, database management (SQL/NoSQL), authentication/authorization, server management (Docker, Nginx, AWS), and best development practices. Proven track record in crafting dynamic web applications with a focus on user experience and collaboration. Ready to drive innovation and tackle complex challenges in a forward-thinking team.**
+- 💬 Ask me about **Experienced Full-Stack Developer skilled in HTML/CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, responsive design, WebPack, Git/GitHub, Node.js, Express.js, API development, SQL/NoSQL databases, authentication/authorization, server management (Docker, Nginx, AWS), and best development practices. Proven track record in crafting dynamic web applications with a focus on user experience and collaboration. Ready to drive innovation and tackle complex challenges in a forward-thinking team.**
 - 📫 How to reach me **muhammadasif.wd@gmail.com**
-- 👨‍💻 All of my projects are available at **https://muhammadasif.vercel.app/**
-- 📝 I regularly write articles on **https://dev.to/muhammadasif_wd**
-- 📄 Know about my experiences **https://docs.google.com/document/d/1_deAvC9h7oRBaHazC0AvGwRvhNRrqpbnqr_t5PoQ4Ic/edit**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://muhammadasif.vercel.app/)**
+- 📝 I regularly write articles on **[Dev.to](https://dev.to/muhammadasif_wd)**
+- 📄 Know about my experiences **[Resume](https://docs.google.com/document/d/1_deAvC9h7oRBaHazC0AvGwRvhNRrqpbnqr_t5PoQ4Ic/edit?usp=sharing)**
 - ⚡ Fun fact **Did you know that the first computer virus was created in 1983 by a high school student named Rich Skrenta? It was called the "Elk Cloner" and targeted Apple II computers by infecting floppy disks.**
 
 <div> <a href="https://twitter.com/muhammadasif_wd" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
