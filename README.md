@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <a href="https://app.daily.dev/muhammadasif_wd"><img src="https://api.daily.dev/devcards/v2/5ha5dAGr2iCDZiTImuVu9.png?type=wide&r=tke" width="1024" alt="Muhammad Asif's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadasif-wd&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadasif-wd" /> </p>
 
