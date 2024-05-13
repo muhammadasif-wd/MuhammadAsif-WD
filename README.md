@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on [DevBrainss](https://github.com/DevBrainss)
 - 🤝 I’m looking for help with [y00ts](https://y00ts.vercel.app/)
 - 🌱 I’m currently learning **Advance Next Level Development By Programming Hero.**
-- 💬 Ask me about **Experienced Full-Stack Developer skilled in HTML/CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js, responsive design, WebPack, Git/GitHub, Node.js, Express.js, API development, SQL/NoSQL databases, authentication/authorization, server management (Docker, Nginx, AWS), and best development practices. Proven track record in crafting dynamic web applications with a focus on user experience and collaboration. Ready to drive innovation and tackle complex challenges in a forward-thinking team.**
+- 💬 Ask me about **Anything for Full Stack Development**
 - 📫 How to reach me **muhammadasif.wd@gmail.com**
 - 👨‍💻 All of my projects are available at **[Portfolio](https://muhammadasif.vercel.app/)**
 - 📝 I regularly write articles on **[Dev.to](https://dev.to/muhammadasif_wd)**
